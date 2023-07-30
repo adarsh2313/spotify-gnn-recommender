@@ -1,0 +1,6 @@
+{
+    "feat_dir": "./data/songset_features.csv",
+    "gpickle_dir": "./data/graph_main.gpickle",
+    "create_graph_from_scratch": false,
+    "playlist_num": 1000
+}
