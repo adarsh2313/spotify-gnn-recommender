@@ -1,6 +1,0 @@
-{
-    "cuda": false,
-    "feat_dim": 13,
-    "emb_dim": 10,
-    "test_data": true
-}
